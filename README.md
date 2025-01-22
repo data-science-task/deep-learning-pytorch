@@ -7,5 +7,5 @@ Inicio os estudos de Deep Learning utilizando a biblioteca Pytorch. Os exercíci
 Ainda haverá outros exercícios sobre o assunto, mas posso compartilhar de antemão os conhecimentos que obtive inicialmente:
 - O que são redes neurais artificiais: Perceptron
 - Sintaxe do Pytorch: tensores
-- Classificação Linea
+- Classificação Linear
 - Camada Linear
